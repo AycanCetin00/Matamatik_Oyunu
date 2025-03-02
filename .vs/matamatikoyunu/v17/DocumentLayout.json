@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|c:\\users\\aycan\\onedrive\\masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|solutionrelative:matamatikoyunu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|solutionrelative:matamatikoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|solutionrelative:matamatikoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|solutionrelative:matamatikoyunu\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|solutionrelative:matamatikoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8758FECC-2F3D-4D91-92BC-A1A48EBD47F3}|matamatikoyunu\\matamatikoyunu.csproj|solutionrelative:matamatikoyunu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Program.cs",
+              "RelativeDocumentMoniker": "matamatikoyunu\\Program.cs",
+              "ToolTip": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Program.cs",
+              "RelativeToolTip": "matamatikoyunu\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:32:19.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "matamatikoyunu\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form2.Designer.cs",
+              "RelativeToolTip": "matamatikoyunu\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:08:17.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form2.cs",
+              "RelativeDocumentMoniker": "matamatikoyunu\\Form2.cs",
+              "ToolTip": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form2.cs",
+              "RelativeToolTip": "matamatikoyunu\\Form2.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwBQBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:19:13.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form2.cs",
+              "RelativeDocumentMoniker": "matamatikoyunu\\Form2.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\matamatikoyunu\\matamatikoyunu\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\matamatikoyunu\\matamatikoyunu\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:18:22.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "matamatikoyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form1.cs",
+              "RelativeToolTip": "matamatikoyunu\\Form1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:07:02.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aycan\\OneDrive\\Masa\u00FCst\u00FC\\okul\\c#\\\u00F6devler\\matamatikoyunu\\matamatikoyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "matamatikoyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\matamatikoyunu\\matamatikoyunu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\matamatikoyunu\\matamatikoyunu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:05:07.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

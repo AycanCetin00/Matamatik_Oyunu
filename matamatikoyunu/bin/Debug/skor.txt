@@ -1,0 +1,3 @@
+Seviye: 1, Puan: 5, Doğru Cevap: 5, Kalan Süre: 33, Tarih: 13.10.2024 15:08:13
+Seviye: 1, Puan: 5, Doğru Cevap: 5, Kalan Süre: 33, Tarih: 13.10.2024 15:14:01
+Seviye: 1, Puan: 3, Doğru Cevap: 3, Kalan Süre: 52, Tarih: 13.10.2024 15:21:13

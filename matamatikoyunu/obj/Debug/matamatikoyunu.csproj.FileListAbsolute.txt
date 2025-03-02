@@ -1,0 +1,11 @@
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\bin\Debug\matamatikoyunu.exe.config
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\bin\Debug\matamatikoyunu.exe
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\bin\Debug\matamatikoyunu.pdb
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.csproj.AssemblyReference.cache
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.Form1.resources
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.Form2.resources
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.Properties.Resources.resources
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.csproj.GenerateResource.cache
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.csproj.CoreCompileInputs.cache
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.exe
+C:\Users\aycan\source\repos\matamatikoyunu\matamatikoyunu\obj\Debug\matamatikoyunu.pdb
